@@ -1,5 +1,5 @@
 import yfinance as yf
-
+from utils.logger import logger
 
 class PriceService:
 
@@ -10,13 +10,13 @@ class PriceService:
             history = ticker.history(period="2d")
 
             if history.empty:
-                print(f"Warning: No data found for {symbol}")
+                logger.warning(f"No data found for {symbol}")
                 return None
 
             return round(float(history["Close"].iloc[-1]), 2)
 
         except Exception as e:
-            print(f"Error fetching {symbol}: {e}")
+            logger.exception(f"Error fetching {symbol}: {e}")
             return None
 
     @staticmethod

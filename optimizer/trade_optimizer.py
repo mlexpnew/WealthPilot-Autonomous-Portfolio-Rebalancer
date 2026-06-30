@@ -1,5 +1,6 @@
 import math
 from typing import Dict, List
+from utils.logger import logger
 
 from models.trade import Trade, TradeAction
 
@@ -49,7 +50,7 @@ class TradeOptimizer:
                 or math.isinf(price)
                 or price <= 0
             ):
-                print(f"[TradeOptimizer] Skipping {ticker} - Invalid price: {price}")
+                logger.warning( f"[TradeOptimizer] Skipping {ticker} - Invalid price: {price}")
                 continue
 
             amount = abs(diff) * portfolio_value

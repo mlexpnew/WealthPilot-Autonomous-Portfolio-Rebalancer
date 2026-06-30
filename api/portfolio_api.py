@@ -1,5 +1,7 @@
-print("========== Portfolio API Loaded ==========")
-print("Portfolio API Loaded")
+from utils.logger import logger
+
+logger.info("========== Portfolio API Loaded ==========")
+
 from pathlib import Path
 import json
 

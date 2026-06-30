@@ -54,10 +54,12 @@ app = FastAPI(
 )
 
 app.include_router(portfolio_router)
-print("\nREGISTERED ROUTES\n")
+from utils.logger import logger
+
+logger.info("REGISTERED ROUTES")
 
 for route in app.routes:
-    print(route.path)
+    logger.info(route.path)
 
 orchestrator = Orchestrator()
 analytics = DecisionAnalytics()
