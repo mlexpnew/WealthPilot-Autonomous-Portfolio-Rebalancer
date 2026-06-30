@@ -56,10 +56,13 @@ app = FastAPI(
 app.include_router(portfolio_router)
 from utils.logger import logger
 
+from starlette.routing import Route
+
 logger.info("REGISTERED ROUTES")
 
 for route in app.routes:
-    logger.info(route.path)
+    if isinstance(route, Route):
+        logger.info(route.path)
 
 orchestrator = Orchestrator()
 analytics = DecisionAnalytics()
