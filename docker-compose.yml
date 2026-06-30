@@ -1,0 +1,39 @@
+version: "3.9"
+
+services:
+
+  api:
+
+    build:
+
+      context: .
+
+      dockerfile: Dockerfile
+
+    container_name: wealthpilot-api
+
+    ports:
+
+      - "8000:8000"
+
+    restart: unless-stopped
+
+  dashboard:
+
+    build:
+
+      context: .
+
+      dockerfile: Dockerfile.dashboard
+
+    container_name: wealthpilot-dashboard
+
+    depends_on:
+
+      - api
+
+    ports:
+
+      - "8501:8501"
+
+    restart: unless-stopped

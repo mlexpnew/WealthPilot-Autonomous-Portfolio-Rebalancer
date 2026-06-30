@@ -1,0 +1,4382 @@
+[
+    {
+        "timestamp": "2026-06-29T10:16:27.868816",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:16:34.752570",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:16:39.252377",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:16:39.641914",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:35:28.849324",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:43:01.457920",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:43:47.159566",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:43:47.555800",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:44:00.353785",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T10:45:23.114437",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:04:35.046022",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:04:51.395378",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:05:00.440460",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:05:02.226643",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:05:12.910530",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:37:20.328823",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:37:20.997150",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:39:32.552944",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:39:32.903772",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:42:11.797044",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T11:42:12.171961",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:10:09.649495",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:10:51.335989",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:10:51.706176",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:14:08.198186",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:14:09.323772",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:14:41.917117",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:14:42.495917",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:17:45.048659",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:17:45.452487",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:18:48.090969",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:18:48.487620",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:19:01.512600",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:19:02.446192",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:21:07.844524",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:21:08.284464",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:22:00.271146",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:22:00.698469",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:23:41.643526",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:23:42.050057",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:24:35.040819",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:24:35.450692",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:27:21.715777",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:27:22.127495",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:30:13.603615",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T13:30:14.015630",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T18:17:16.169480",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T18:17:16.671646",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T18:21:40.598052",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T18:24:21.445399",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-29T18:27:11.988343",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:05:57.557838",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.55,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:06:20.790710",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.91,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.44,
+                "price": 114.65,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:06:21.145772",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.55,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:06:26.418127",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.55,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:06:29.685725",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.91,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.44,
+                "price": 114.65,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:06:30.061221",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.55,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:06:32.863698",
+        "portfolio_id": "WP-1007",
+        "client_name": "Karan Yadav",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.89,
+                "target_weight": 0.9,
+                "weight_difference": 0.01,
+                "amount": 10000.0,
+                "quantity": 36.82,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.13,
+                "target_weight": 0.05,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 999.99,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": -0.02,
+                "target_weight": 0.05,
+                "weight_difference": 0.07,
+                "amount": 70000.0,
+                "quantity": 610.45,
+                "price": 114.67,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:06:33.228903",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.55,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 999.99,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:32:01.470864",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.86,
+                "price": 271.66,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 173.69,
+                "price": 115.15,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:32:01.835455",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.49,
+                "price": 271.66,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:32:21.454090",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.44,
+                "price": 271.7,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:41:35.874254",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.82,
+                "price": 271.71,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 999.99,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 173.6,
+                "price": 115.21,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:45:11.362154",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.81,
+                "price": 271.73,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 173.7,
+                "price": 115.14,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:45:22.673580",
+        "portfolio_id": "WP-1005",
+        "client_name": "Riya Patel",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.05,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.59,
+                "target_weight": 0.6,
+                "weight_difference": 0.01,
+                "amount": 10000.0,
+                "quantity": 36.81,
+                "price": 271.68,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.26,
+                "target_weight": 0.3,
+                "weight_difference": 0.04,
+                "amount": 40000.0,
+                "quantity": 40.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "SELL",
+                "current_weight": 0.15,
+                "target_weight": 0.1,
+                "weight_difference": -0.05,
+                "amount": 50000.0,
+                "quantity": 434.37,
+                "price": 115.11,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 5.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:45:27.734798",
+        "portfolio_id": "WP-1005",
+        "client_name": "Riya Patel",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.05,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.59,
+                "target_weight": 0.6,
+                "weight_difference": 0.01,
+                "amount": 10000.0,
+                "quantity": 36.81,
+                "price": 271.68,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.26,
+                "target_weight": 0.3,
+                "weight_difference": 0.04,
+                "amount": 40000.0,
+                "quantity": 40.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "SELL",
+                "current_weight": 0.15,
+                "target_weight": 0.1,
+                "weight_difference": -0.05,
+                "amount": 50000.0,
+                "quantity": 434.37,
+                "price": 115.11,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 5.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:49:23.809529",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.77,
+                "price": 271.77,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 173.76,
+                "price": 115.1,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T04:50:58.230851",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.91,
+                "price": 271.6,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 173.66,
+                "price": 115.17,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:37:09.791610",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.85,
+                "price": 271.68,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.19,
+                "price": 114.82,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:41:51.331722",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.61,
+                "price": 271.97,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.03,
+                "price": 114.92,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:43:13.044501",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.43,
+                "price": 272.19,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.03,
+                "price": 114.92,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:45:18.192975",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.45,
+                "price": 272.17,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.13,
+                "price": 114.86,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:46:51.013233",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.43,
+                "price": 272.19,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.05,
+                "price": 114.91,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:47:17.874624",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.43,
+                "price": 272.19,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.09,
+                "price": 114.88,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:47:19.863109",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.43,
+                "price": 272.19,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.09,
+                "price": 114.88,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:52:05.774154",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.47,
+                "price": 272.15,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.17,
+                "price": 114.83,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:52:06.741685",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.96,
+                "price": 272.15,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:52:07.573198",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.43,
+                "price": 272.19,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 174.17,
+                "price": 114.83,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T05:52:07.947987",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.91,
+                "price": 272.19,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T06:16:37.599263",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.46,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 173.94,
+                "price": 114.98,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T06:16:38.615071",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.94,
+                "price": 272.16,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T06:16:39.456820",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.45,
+                "price": 272.17,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 173.94,
+                "price": 114.98,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T06:16:39.830806",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.93,
+                "price": 272.17,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:10:20.566929",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.01,
+                "price": 272.1,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:18:56.176004",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.47,
+                "price": 272.14,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 172.35,
+                "price": 116.04,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:18:56.624832",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.97,
+                "price": 272.14,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:18:57.425222",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.47,
+                "price": 272.14,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 172.35,
+                "price": 116.04,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:18:57.805950",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.47,
+                "price": 272.14,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 172.35,
+                "price": 116.04,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:18:58.181935",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.47,
+                "price": 272.14,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 172.35,
+                "price": 116.04,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:18:58.512610",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 293.97,
+                "price": 272.14,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:45:20.518238",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.89,
+                "price": 271.63,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 172.4,
+                "price": 116.01,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:45:20.976797",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.52,
+                "price": 271.63,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.01,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:45:22.261667",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.89,
+                "price": 271.63,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 172.4,
+                "price": 116.01,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:45:22.609828",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.89,
+                "price": 271.63,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 172.4,
+                "price": 116.01,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:45:22.985548",
+        "portfolio_id": "WP-1001",
+        "client_name": "Riya Kapoor",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 3,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "BUY",
+                "current_weight": 0.14,
+                "target_weight": 0.2,
+                "weight_difference": 0.06,
+                "amount": 60000.0,
+                "quantity": 220.89,
+                "price": 271.63,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "SELL",
+                "current_weight": 0.73,
+                "target_weight": 0.65,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            },
+            {
+                "symbol": "GOLDBEES.NS",
+                "asset_class": "Gold",
+                "action": "BUY",
+                "current_weight": 0.13,
+                "target_weight": 0.15,
+                "weight_difference": 0.02,
+                "amount": 20000.0,
+                "quantity": 172.4,
+                "price": 116.01,
+                "reason": "Rebalance Gold"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    },
+    {
+        "timestamp": "2026-06-30T08:45:23.319109",
+        "portfolio_id": "WP-1001",
+        "client_name": "Rahul Sharma",
+        "trigger": "REBALANCE",
+        "decision_score": 60,
+        "drift": 0.08,
+        "risk_score": 1.05,
+        "tax": 675.0,
+        "approved": true,
+        "trade_count": 2,
+        "trade_list": [
+            {
+                "symbol": "NIFTYBEES.NS",
+                "asset_class": "Equity",
+                "action": "SELL",
+                "current_weight": 0.68,
+                "target_weight": 0.6,
+                "weight_difference": -0.08,
+                "amount": 80000.0,
+                "quantity": 294.52,
+                "price": 271.63,
+                "reason": "Rebalance Equity"
+            },
+            {
+                "symbol": "LIQUIDBEES.NS",
+                "asset_class": "Debt",
+                "action": "BUY",
+                "current_weight": 0.22,
+                "target_weight": 0.3,
+                "weight_difference": 0.08,
+                "amount": 80000.0,
+                "quantity": 80.0,
+                "price": 1000.0,
+                "reason": "Rebalance Debt"
+            }
+        ],
+        "decision_reasons": [
+            "Portfolio drift is 8.00%.",
+            "Portfolio risk exceeds acceptable threshold."
+        ]
+    }
+]

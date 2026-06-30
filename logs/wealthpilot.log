@@ -1,0 +1,1471 @@
+2026-06-26 19:25:34.973 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-26 19:25:34.975 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-26 19:25:34.976 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-26 19:25:34.976 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-26 20:03:27.711 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-26 20:03:27.712 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-26 20:03:27.712 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-26 20:03:27.712 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-26 20:03:27.712 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-26 20:03:28.577 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-26T20:03:28.577106', 'nifty': 24056.0, 'bank_nifty': 58177.05}
+2026-06-26 20:03:28.577 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-26 20:03:28.656 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0807 VaR=-0.0173
+2026-06-26 20:03:28.656 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-26 20:03:31.550 | INFO     | core.base_agent:log:14 - [TradeAgent] 1 trades generated
+2026-06-28 01:11:10.106 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-28 01:11:10.108 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-28 01:11:10.108 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-28 01:11:10.108 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-28 01:11:10.108 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-28 01:11:12.060 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-28T01:11:12.060184', 'nifty': 24056.0, 'bank_nifty': 58177.05}
+2026-06-28 01:11:12.060 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-28 01:11:12.351 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0807 VaR=-0.0173
+2026-06-28 01:11:12.351 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-28 01:11:16.021 | INFO     | core.base_agent:log:14 - [TradeAgent] 1 trades generated
+2026-06-28 01:11:16.021 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-28 01:11:16.021 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-28 01:11:16.021 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-28 01:11:16.022 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-28 01:11:16.022 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-28 01:11:16.022 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-28 01:11:16.022 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 12:47:52.465 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 12:47:52.469 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 12:47:52.469 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 12:47:52.469 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 12:47:52.469 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 12:47:52.961 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T12:47:52.961042', 'nifty': 23944.35, 'bank_nifty': 57682.95}
+2026-06-29 12:47:52.961 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 12:47:53.042 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0813 VaR=-0.0173
+2026-06-29 12:47:53.042 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 12:47:54.178 | INFO     | core.base_agent:log:14 - [TradeAgent] 1 trades generated
+2026-06-29 12:47:54.178 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 12:47:54.178 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 12:47:54.179 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 12:47:54.179 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 12:47:54.179 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 12:47:54.179 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 12:47:54.179 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 13:03:45.636 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:03:45.636 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:03:45.636 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:03:45.636 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:03:45.637 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:03:46.346 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:03:46.346493', 'nifty': 23958.05, 'bank_nifty': 57724.5}
+2026-06-29 13:03:46.346 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:03:46.425 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0809 VaR=-0.0173
+2026-06-29 13:03:46.425 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 13:03:47.810 | INFO     | core.base_agent:log:14 - [TradeAgent] 1 trades generated
+2026-06-29 13:03:47.811 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 13:03:47.811 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 13:03:47.811 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 13:03:47.811 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 13:03:47.811 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 13:03:47.811 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 13:03:47.811 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 13:14:04.452 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:14:04.452 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:14:04.452 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:14:04.453 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:14:04.453 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:14:05.122 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:14:05.122780', 'nifty': 23966.45, 'bank_nifty': 57809.7}
+2026-06-29 13:14:05.123 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:14:05.357 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0806 VaR=-0.0173
+2026-06-29 13:14:05.357 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 13:14:06.824 | INFO     | core.base_agent:log:14 - [TradeAgent] 1 trades generated
+2026-06-29 13:14:06.824 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 13:14:06.824 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 13:14:06.824 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 13:14:06.824 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 13:14:06.824 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 13:14:06.824 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 13:14:06.824 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 13:19:10.978 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:19:10.979 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:19:10.979 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:19:10.979 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:19:10.979 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:19:11.805 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:19:11.805086', 'nifty': 23953.05, 'bank_nifty': 57738.2}
+2026-06-29 13:19:11.805 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:19:11.880 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0811 VaR=-0.0173
+2026-06-29 13:19:11.880 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 13:19:13.339 | INFO     | core.base_agent:log:14 - [TradeAgent] 1 trades generated
+2026-06-29 13:19:13.339 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 13:19:13.339 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 13:19:13.339 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 13:19:13.339 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 13:19:13.339 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 13:19:13.340 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 13:19:13.340 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 13:25:56.471 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:25:56.472 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:25:56.472 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:25:56.472 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:25:56.472 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:25:57.136 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:25:57.136294', 'nifty': 23955.7, 'bank_nifty': 57775.0}
+2026-06-29 13:25:57.136 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:25:57.229 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0810 VaR=-0.0173
+2026-06-29 13:25:57.229 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 13:25:59.855 | INFO     | core.base_agent:log:14 - [TradeAgent] 1 trades generated
+2026-06-29 13:25:59.855 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 13:25:59.856 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 13:25:59.856 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 13:25:59.856 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 13:25:59.856 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 13:25:59.856 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 13:25:59.856 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 13:30:16.880 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:30:16.880 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:30:16.881 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:30:16.881 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:30:16.881 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:30:17.616 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:30:17.616793', 'nifty': 23962.7, 'bank_nifty': 57806.7}
+2026-06-29 13:30:17.617 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:30:17.696 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0807 VaR=-0.0173
+2026-06-29 13:30:17.696 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 13:30:18.513 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 13:30:18.513 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 13:30:18.513 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 13:30:18.513 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 13:30:18.513 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 13:30:18.513 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 13:30:18.514 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 13:30:18.514 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 13:49:54.821 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:49:54.822 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:49:54.822 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:49:54.822 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:49:54.822 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:49:55.452 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0815 VaR=-0.0173
+2026-06-29 13:49:55.452 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:49:55.615 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:49:55.615753', 'nifty': 23938.35, 'bank_nifty': 57801.0}
+2026-06-29 13:49:55.616 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 13:49:55.616 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 40
+2026-06-29 13:49:55.616 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : NONE
+2026-06-29 13:49:55.616 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 13:49:55.905 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 13:49:55.905 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 13:49:55.905 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 13:49:55.905 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 13:49:55.905 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 13:49:55.905 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 13:49:55.905 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 13:49:55.905 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 13:52:16.500 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:52:16.501 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:52:16.501 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:52:16.501 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:52:16.501 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:52:17.171 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0813 VaR=-0.0173
+2026-06-29 13:52:17.171 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:52:17.316 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:52:17.315968', 'nifty': 23943.25, 'bank_nifty': 57808.7}
+2026-06-29 13:52:17.316 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 13:52:17.316 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 13:52:17.316 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 13:53:13.410 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:53:13.410 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:53:13.411 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:53:13.411 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:53:13.411 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:53:14.002 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0814 VaR=-0.0173
+2026-06-29 13:53:14.002 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:53:14.147 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:53:14.147237', 'nifty': 23941.5, 'bank_nifty': 57800.85}
+2026-06-29 13:53:14.147 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 13:53:14.148 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 13:53:14.148 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 13:57:52.033 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 13:57:52.033 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 13:57:52.034 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 13:57:52.034 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 13:57:52.034 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 13:57:52.653 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0810 VaR=-0.0173
+2026-06-29 13:57:52.654 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 13:57:52.802 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T13:57:52.802107', 'nifty': 23953.6, 'bank_nifty': 57843.0}
+2026-06-29 13:57:52.802 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 13:57:52.802 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 13:57:52.803 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 13:57:52.803 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 13:57:53.061 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 13:57:53.061 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 13:57:53.062 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 13:57:53.062 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 13:57:53.062 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 13:57:53.062 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 13:57:53.063 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 13:57:53.063 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 14:14:22.971 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 14:14:22.972 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 14:14:22.972 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 14:14:22.972 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 14:14:22.973 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 14:14:23.582 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0808 VaR=-0.0173
+2026-06-29 14:14:23.583 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 14:14:23.725 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T14:14:23.725209', 'nifty': 23960.9, 'bank_nifty': 57907.85}
+2026-06-29 14:14:23.725 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 14:14:23.725 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 14:14:23.725 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 14:14:23.725 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 14:14:23.995 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 14:14:23.995 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 14:14:23.996 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 14:14:23.996 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 14:14:23.996 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 14:14:23.996 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 14:14:23.996 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 14:14:23.996 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 14:15:20.856 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 14:15:20.856 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 14:15:20.856 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 14:15:20.856 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 14:15:20.856 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 14:15:21.431 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0809 VaR=-0.0173
+2026-06-29 14:15:21.432 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 14:15:21.579 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T14:15:21.578958', 'nifty': 23958.5, 'bank_nifty': 57892.5}
+2026-06-29 14:15:21.579 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 14:15:21.579 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 14:15:21.579 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 14:15:21.579 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 14:15:21.825 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 14:15:21.825 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 14:15:21.826 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 14:15:21.826 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 14:15:21.826 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 14:15:21.826 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 14:15:21.826 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 14:15:21.826 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:08:53.776 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:08:53.777 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:08:53.777 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:08:53.777 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:08:53.777 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:08:54.405 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0810 VaR=-0.0173
+2026-06-29 15:08:54.405 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:08:54.535 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:08:54.535787', 'nifty': 23954.05, 'bank_nifty': 57749.75}
+2026-06-29 15:08:54.536 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:08:54.536 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:08:54.536 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:08:54.536 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:08:54.921 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:08:54.922 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:08:54.922 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:08:54.922 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:08:54.922 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:08:54.922 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:08:54.922 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Auto Approved
+2026-06-29 15:08:54.922 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:13:07.170 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:13:07.170 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:13:07.170 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:13:07.171 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:13:07.171 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:13:07.759 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0814 VaR=-0.0173
+2026-06-29 15:13:07.759 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:13:07.910 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:13:07.910100', 'nifty': 23941.8, 'bank_nifty': 57733.25}
+2026-06-29 15:13:07.910 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:13:07.910 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:13:07.910 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:13:07.910 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:13:08.462 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:13:08.463 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:13:08.463 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:13:08.463 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:13:08.463 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:13:08.463 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:13:08.463 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:13:08.463 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:13:08.464 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:14:44.732 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:14:44.733 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:14:44.733 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:14:44.733 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:14:44.733 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:14:45.308 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0815 VaR=-0.0173
+2026-06-29 15:14:45.308 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:14:45.451 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:14:45.451130', 'nifty': 23938.55, 'bank_nifty': 57703.15}
+2026-06-29 15:14:45.451 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:14:45.451 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:14:45.451 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:14:45.451 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:14:45.712 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:14:45.712 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:14:45.712 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:14:45.713 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:14:45.713 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:14:45.713 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:14:45.713 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:14:45.713 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:14:45.713 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:15:50.585 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:15:50.586 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:15:50.586 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:15:50.586 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:15:50.586 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:15:50.819 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0816 VaR=-0.0173
+2026-06-29 15:15:50.820 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:15:50.980 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:15:50.980859', 'nifty': 23936.5, 'bank_nifty': 57693.85}
+2026-06-29 15:15:50.981 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:15:50.981 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:15:50.981 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:15:50.981 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:15:51.646 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:15:51.646 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:15:51.646 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:15:51.646 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:15:51.647 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:15:51.647 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:15:51.647 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:15:51.647 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:15:51.647 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:19:21.619 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:19:21.620 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:19:21.620 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:19:21.620 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:19:21.620 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:19:22.180 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:19:22.180 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:19:22.337 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:19:22.337742', 'nifty': 23948.05, 'bank_nifty': 57708.4}
+2026-06-29 15:19:22.338 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:19:22.338 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:19:22.338 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:19:22.338 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:19:22.588 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:19:22.588 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:19:22.589 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:19:22.589 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:19:22.589 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:19:22.589 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:19:22.589 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:19:22.589 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:19:22.590 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:19:22.804 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:19:22.804 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:19:22.804 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:19:22.804 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:19:22.804 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:19:22.854 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:19:22.854 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:19:22.952 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:19:22.952009', 'nifty': 23948.05, 'bank_nifty': 57708.4}
+2026-06-29 15:19:22.952 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:19:22.952 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:19:22.952 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:19:22.952 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:19:23.097 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:19:23.182 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:19:23.183 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:19:23.234 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:19:23.234 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:19:23.337 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:19:23.337393', 'nifty': 23948.05, 'bank_nifty': 57708.4}
+2026-06-29 15:19:23.337 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:19:23.337 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:19:23.338 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:19:23.338 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:19:23.364 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:19:23.364 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:19:23.488 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:19:23.505 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:19:23.505205', 'nifty': 23948.05, 'bank_nifty': 57710.15}
+2026-06-29 15:19:23.505 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:19:23.505 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:19:23.505 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:19:23.505 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:19:23.817 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:20:02.553 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:20:02.554 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:20:02.554 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:20:02.554 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:20:02.554 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:20:02.748 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:20:02.748 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:20:02.911 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:20:02.911594', 'nifty': 23947.9, 'bank_nifty': 57701.4}
+2026-06-29 15:20:02.912 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:20:02.912 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:20:02.912 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:20:02.912 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:20:03.155 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:20:07.889 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:20:07.889 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:20:07.890 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:20:07.890 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:20:07.890 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:20:07.951 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:20:07.951 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:20:08.072 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:20:08.072293', 'nifty': 23947.9, 'bank_nifty': 57701.4}
+2026-06-29 15:20:08.072 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:20:08.072 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:20:08.072 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:20:08.072 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:20:08.249 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:20:08.249 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:20:08.250 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:20:08.250 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:20:08.250 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:20:08.250 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:20:08.250 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:20:08.250 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:20:08.250 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:20:08.299 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:20:08.299 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:20:08.299 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:20:08.299 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:20:08.299 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:20:08.353 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:20:08.354 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:20:08.457 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:20:08.457700', 'nifty': 23947.9, 'bank_nifty': 57701.4}
+2026-06-29 15:20:08.458 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:20:08.458 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:20:08.458 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:20:08.458 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:20:08.618 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:46:26.562 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:46:26.563 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:46:26.563 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:46:26.563 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:46:26.563 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:46:27.480 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:46:27.480 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:46:27.614 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:46:27.614890', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 15:46:27.615 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:46:27.615 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:46:27.615 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:46:27.615 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:46:27.867 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:46:27.868 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:46:27.868 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:46:27.868 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:46:27.868 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:46:27.868 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:46:27.868 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:46:27.868 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:46:27.868 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:46:34.355 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:46:34.356 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:46:34.357 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:46:34.357 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:46:34.357 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:46:34.428 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:46:34.429 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:46:34.553 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:46:34.553055', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 15:46:34.553 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:46:34.553 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:46:34.553 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:46:34.553 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:46:34.751 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:46:34.751 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:46:34.752 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:46:34.752 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:46:34.752 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:46:34.752 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:46:34.752 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:46:34.752 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:46:34.752 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:46:38.641 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:46:38.641 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:46:38.641 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:46:38.641 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:46:38.642 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:46:38.830 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:46:38.831 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:46:38.991 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:46:38.991501', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 15:46:38.991 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:46:38.992 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:46:38.992 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:46:38.992 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:46:39.251 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:46:39.251 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:46:39.251 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:46:39.251 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:46:39.252 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:46:39.252 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:46:39.252 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:46:39.252 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:46:39.252 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 15:46:39.310 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 15:46:39.310 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 15:46:39.310 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 15:46:39.310 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 15:46:39.310 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 15:46:39.367 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 15:46:39.367 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 15:46:39.472 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T15:46:39.472040', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 15:46:39.472 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 15:46:39.472 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 15:46:39.472 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 15:46:39.472 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 15:46:39.641 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:05:27.827 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:05:27.829 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:05:27.829 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:05:27.829 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:05:27.829 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:05:28.457 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:05:28.457 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:05:28.595 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:05:28.595693', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:05:28.596 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:05:28.596 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:05:28.596 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:05:28.596 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:05:28.847 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:05:28.848 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:05:28.848 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:05:28.848 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:05:28.848 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:05:28.848 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:05:28.849 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:05:28.849 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:05:28.849 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:13:00.397 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:13:00.398 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:13:00.398 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:13:00.398 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:13:00.398 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:13:01.066 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:13:01.066 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:13:01.209 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:13:01.209235', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:13:01.209 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:13:01.209 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:13:01.209 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:13:01.209 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:13:01.456 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:13:01.457 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:13:01.457 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:13:01.457 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:13:01.457 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:13:01.457 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:13:01.457 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:13:01.457 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:13:01.457 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:13:46.673 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:13:46.674 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:13:46.674 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:13:46.674 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:13:46.675 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:13:46.762 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:13:46.762 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:13:46.914 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:13:46.914025', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:13:46.914 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:13:46.914 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:13:46.914 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:13:46.914 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:13:47.157 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:13:47.158 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:13:47.158 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:13:47.158 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:13:47.158 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:13:47.158 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:13:47.159 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:13:47.159 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:13:47.159 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:13:47.242 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:13:47.243 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:13:47.243 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:13:47.243 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:13:47.243 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:13:47.296 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:13:47.296 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:13:47.398 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:13:47.398589', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:13:47.398 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:13:47.398 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:13:47.398 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:13:47.398 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:13:47.555 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:13:59.756 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:13:59.758 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:13:59.759 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:13:59.759 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:13:59.759 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:13:59.952 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:13:59.952 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:14:00.093 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:14:00.093075', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:14:00.093 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:14:00.093 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:14:00.093 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:14:00.093 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:14:00.352 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:14:00.353 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:14:00.353 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:14:00.353 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:14:00.353 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:14:00.353 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:14:00.353 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:14:00.353 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:14:00.353 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:15:22.108 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:15:22.109 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:15:22.109 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:15:22.109 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:15:22.109 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:15:22.717 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:15:22.717 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:15:22.866 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:15:22.866110', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:15:22.866 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:15:22.866 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:15:22.866 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:15:22.867 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:15:23.113 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:15:23.113 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:15:23.114 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:15:23.114 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:15:23.114 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:15:23.114 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:15:23.114 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:15:23.114 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:15:23.114 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:34:34.021 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:34:34.021 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:34:34.021 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:34:34.022 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:34:34.022 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 16:34:34.022 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:34:34.628 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:34:34.628 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:34:34.782 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:34:34.782398', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:34:34.782 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:34:34.782 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:34:34.783 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:34:34.783 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:34:35.045 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:34:50.911 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:34:50.912 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:34:50.912 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:34:50.912 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:34:50.913 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 16:34:50.913 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:34:50.989 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:34:50.989 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:34:51.146 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:34:51.146183', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:34:51.146 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:34:51.146 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:34:51.146 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:34:51.146 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:34:51.394 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:34:51.394 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:34:51.394 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:34:51.394 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:34:51.394 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:34:51.395 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:34:51.395 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:34:51.395 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:34:51.395 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:34:51.398 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : APPROVE
+2026-06-29 16:35:00.078 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:35:00.079 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:35:00.079 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:35:00.080 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:35:00.080 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 16:35:00.080 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:35:00.142 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:35:00.142 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:35:00.256 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:35:00.256085', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:35:00.256 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:35:00.256 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:35:00.256 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:35:00.256 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:35:00.439 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:35:00.440 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:35:00.440 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:35:00.440 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:35:00.440 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:35:00.440 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:35:00.440 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:35:00.440 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:35:00.440 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:35:00.442 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : REJECT
+2026-06-29 16:35:01.777 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:35:01.778 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:35:01.778 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:35:01.778 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:35:01.778 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 16:35:01.778 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:35:01.847 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:35:01.847 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:35:01.983 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:35:01.983959', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:35:01.984 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:35:01.984 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:35:01.984 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:35:01.984 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:35:02.225 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:35:02.225 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:35:02.226 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:35:02.226 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:35:02.226 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:35:02.226 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:35:02.226 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:35:02.226 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:35:02.226 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:35:02.230 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : REJECT
+2026-06-29 16:35:12.442 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 16:35:12.444 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 16:35:12.445 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 16:35:12.445 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 16:35:12.446 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 16:35:12.446 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 16:35:12.524 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 16:35:12.524 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 16:35:12.668 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T16:35:12.668811', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 16:35:12.669 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 16:35:12.669 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 16:35:12.669 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 16:35:12.669 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 16:35:12.909 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 16:35:12.909 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 16:35:12.910 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 16:35:12.910 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 16:35:12.910 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 16:35:12.910 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 16:35:12.910 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 16:35:12.910 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 16:35:12.910 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 16:35:12.912 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : MODIFY
+2026-06-29 17:07:19.162 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 17:07:19.162 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 17:07:19.162 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 17:07:19.162 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 17:07:19.162 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 17:07:19.162 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 17:07:19.776 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 17:07:19.776 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 17:07:20.084 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T17:07:20.084509', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 17:07:20.084 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 17:07:20.084 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 17:07:20.085 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 17:07:20.085 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 17:07:20.328 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 17:07:20.667 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 17:07:20.667 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 17:07:20.667 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 17:07:20.667 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 17:07:20.668 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 17:07:20.668 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 17:07:20.721 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 17:07:20.721 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 17:07:20.834 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T17:07:20.834774', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 17:07:20.834 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 17:07:20.835 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 17:07:20.835 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 17:07:20.835 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 17:07:20.996 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 17:07:20.996 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 17:07:20.996 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 17:07:20.996 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 17:07:20.996 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 17:07:20.996 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 17:07:20.997 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 17:07:20.997 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 17:07:20.997 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 17:09:31.085 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 17:09:31.085 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 17:09:31.085 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 17:09:31.085 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 17:09:31.085 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 17:09:31.085 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 17:09:32.043 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 17:09:32.044 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 17:09:32.181 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T17:09:32.181144', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 17:09:32.181 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 17:09:32.181 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 17:09:32.181 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 17:09:32.181 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 17:09:32.552 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 17:09:32.593 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 17:09:32.593 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 17:09:32.593 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 17:09:32.593 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 17:09:32.593 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 17:09:32.593 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 17:09:32.646 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 17:09:32.646 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 17:09:32.746 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T17:09:32.746795', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 17:09:32.747 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 17:09:32.747 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 17:09:32.747 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 17:09:32.747 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 17:09:32.903 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 17:12:10.786 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 17:12:10.786 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 17:12:10.786 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 17:12:10.786 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 17:12:10.787 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 17:12:10.787 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 17:12:11.379 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 17:12:11.379 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 17:12:11.534 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T17:12:11.534382', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 17:12:11.534 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 17:12:11.534 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 17:12:11.535 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 17:12:11.535 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 17:12:11.795 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 17:12:11.796 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 17:12:11.796 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 17:12:11.796 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 17:12:11.796 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 17:12:11.796 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 17:12:11.796 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 17:12:11.796 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 17:12:11.796 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 17:12:11.852 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 17:12:11.852 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 17:12:11.852 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 17:12:11.852 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 17:12:11.852 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 17:12:11.852 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 17:12:11.905 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 17:12:11.905 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 17:12:12.005 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T17:12:12.005418', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 17:12:12.005 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 17:12:12.005 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 17:12:12.005 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 17:12:12.005 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 17:12:12.171 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:40:08.494 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:40:08.494 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:40:08.494 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:40:08.494 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:40:08.494 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:40:08.494 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:40:09.277 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:40:09.277 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:40:09.419 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:40:09.419570', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:40:09.420 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:40:09.420 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:40:09.420 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:40:09.420 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:40:09.648 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:40:09.648 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:40:09.649 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:40:09.649 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:40:09.649 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:40:09.649 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:40:09.649 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:40:09.649 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:40:09.649 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:40:50.337 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:40:50.337 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:40:50.337 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:40:50.338 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:40:50.338 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:40:50.338 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:40:50.938 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:40:50.938 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:40:51.081 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:40:51.081800', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:40:51.082 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:40:51.082 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:40:51.082 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:40:51.082 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:40:51.335 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:40:51.373 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:40:51.373 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:40:51.374 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:40:51.374 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:40:51.374 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:40:51.374 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:40:51.430 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:40:51.430 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:40:51.535 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:40:51.535637', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:40:51.535 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:40:51.535 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:40:51.535 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:40:51.535 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:40:51.705 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:40:51.705 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:40:51.705 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:40:51.705 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:40:51.705 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:40:51.705 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:40:51.705 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:40:51.706 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:40:51.706 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:44:07.181 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:44:07.181 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:44:07.181 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:44:07.181 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:44:07.181 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:44:07.181 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:44:07.770 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:44:07.771 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:44:07.922 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:44:07.922468', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:44:07.922 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:44:07.923 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:44:07.923 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:44:07.923 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:44:08.196 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:44:08.197 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:44:08.197 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:44:08.197 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:44:08.197 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:44:08.197 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:44:08.197 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:44:08.198 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:44:08.198 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:44:08.805 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:44:08.806 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:44:08.806 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:44:08.806 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:44:08.806 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:44:08.806 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:44:08.867 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:44:08.867 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:44:08.985 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:44:08.985153', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:44:08.985 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:44:08.985 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:44:08.985 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:44:08.985 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:44:09.322 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:44:09.323 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:44:09.323 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:44:09.323 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:44:09.323 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:44:09.323 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:44:09.323 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:44:09.323 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:44:09.323 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:44:41.311 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:44:41.312 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:44:41.312 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:44:41.312 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:44:41.312 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:44:41.312 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:44:41.499 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:44:41.499 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:44:41.647 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:44:41.647801', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:44:41.648 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:44:41.648 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:44:41.648 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:44:41.648 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:44:41.916 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:44:41.916 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:44:41.916 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:44:41.916 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:44:41.916 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:44:41.916 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:44:41.916 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:44:41.917 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:44:41.917 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:44:42.177 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:44:42.177 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:44:42.177 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:44:42.177 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:44:42.177 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:44:42.177 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:44:42.230 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:44:42.230 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:44:42.340 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:44:42.340405', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:44:42.340 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:44:42.340 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:44:42.340 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:44:42.340 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:44:42.495 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:47:44.050 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:47:44.050 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:47:44.050 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:47:44.050 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:47:44.051 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:47:44.051 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:47:44.648 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:47:44.649 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:47:44.791 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:47:44.791841', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:47:44.792 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:47:44.792 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:47:44.792 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:47:44.792 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:47:45.047 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:47:45.047 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:47:45.047 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:47:45.047 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:47:45.047 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:47:45.048 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:47:45.048 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:47:45.048 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:47:45.048 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:47:45.127 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:47:45.128 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:47:45.128 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:47:45.128 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:47:45.128 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:47:45.128 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:47:45.184 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:47:45.184 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:47:45.286 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:47:45.286880', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:47:45.287 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:47:45.287 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:47:45.287 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:47:45.287 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:47:45.451 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:47:45.451 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:47:45.451 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:47:45.452 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:47:45.452 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:47:45.452 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:47:45.452 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:47:45.452 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:47:45.452 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:48:47.074 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:48:47.074 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:48:47.074 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:48:47.074 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:48:47.074 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:48:47.074 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:48:47.671 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:48:47.671 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:48:47.826 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:48:47.826688', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:48:47.827 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:48:47.827 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:48:47.827 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:48:47.827 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:48:48.089 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:48:48.090 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:48:48.090 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:48:48.090 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:48:48.090 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:48:48.090 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:48:48.090 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:48:48.090 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:48:48.090 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:48:48.163 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:48:48.163 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:48:48.163 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:48:48.163 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:48:48.164 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:48:48.164 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:48:48.221 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:48:48.222 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:48:48.326 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:48:48.326818', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:48:48.327 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:48:48.327 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:48:48.327 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:48:48.327 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:48:48.486 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:48:48.487 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:48:48.487 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:48:48.487 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:48:48.487 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:48:48.487 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:48:48.487 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:48:48.487 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:48:48.487 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:49:00.931 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:49:00.931 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:49:00.931 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:49:00.931 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:49:00.931 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:49:00.932 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:49:01.114 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:49:01.114 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:49:01.255 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:49:01.255239', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:49:01.255 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:49:01.255 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:49:01.255 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:49:01.255 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:49:01.511 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:49:01.512 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:49:01.512 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:49:01.512 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:49:01.512 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:49:01.512 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:49:01.512 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:49:01.512 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:49:01.512 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:49:02.130 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:49:02.130 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:49:02.130 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:49:02.130 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:49:02.130 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:49:02.130 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:49:02.187 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:49:02.187 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:49:02.288 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:49:02.288404', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:49:02.288 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:49:02.288 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:49:02.288 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:49:02.288 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:49:02.445 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:49:02.445 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:49:02.445 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:49:02.445 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:49:02.445 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:49:02.445 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:49:02.446 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:49:02.446 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:49:02.446 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:51:06.822 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:51:06.823 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:51:06.823 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:51:06.823 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:51:06.823 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:51:06.823 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:51:07.431 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:51:07.431 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:51:07.582 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:51:07.582171', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:51:07.582 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:51:07.582 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:51:07.582 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:51:07.582 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:51:07.843 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:51:07.843 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:51:07.843 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:51:07.843 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:51:07.843 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:51:07.843 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:51:07.844 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:51:07.844 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:51:07.844 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:51:07.955 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:51:07.955 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:51:07.955 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:51:07.955 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:51:07.955 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:51:07.955 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:51:08.011 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:51:08.011 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:51:08.113 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:51:08.113631', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:51:08.113 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:51:08.113 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:51:08.113 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:51:08.113 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:51:08.283 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:51:08.283 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:51:08.283 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:51:08.283 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:51:08.284 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:51:08.284 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:51:08.284 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:51:08.284 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:51:08.284 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:51:59.306 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:51:59.307 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:51:59.307 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:51:59.307 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:51:59.307 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:51:59.307 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:51:59.866 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:51:59.866 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:52:00.015 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:52:00.015922', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:52:00.016 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:52:00.016 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:52:00.016 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:52:00.016 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:52:00.269 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:52:00.270 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:52:00.270 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:52:00.270 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:52:00.270 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:52:00.270 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:52:00.270 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:52:00.271 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:52:00.271 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:52:00.360 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:52:00.360 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:52:00.360 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:52:00.360 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:52:00.361 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:52:00.361 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:52:00.416 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:52:00.417 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:52:00.522 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:52:00.522786', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:52:00.522 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:52:00.522 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:52:00.523 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:52:00.523 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:52:00.697 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:52:00.697 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:52:00.698 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:52:00.698 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:52:00.698 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:52:00.698 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:52:00.698 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:52:00.698 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:52:00.698 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:53:40.631 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:53:40.632 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:53:40.632 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:53:40.632 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:53:40.632 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:53:40.632 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:53:41.218 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:53:41.218 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:53:41.373 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:53:41.373576', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:53:41.374 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:53:41.374 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:53:41.374 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:53:41.374 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:53:41.642 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:53:41.642 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:53:41.643 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:53:41.643 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:53:41.643 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:53:41.643 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:53:41.643 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:53:41.643 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:53:41.643 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:53:41.739 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:53:41.739 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:53:41.739 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:53:41.739 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:53:41.739 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:53:41.739 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:53:41.789 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:53:41.790 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:53:41.893 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:53:41.893783', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:53:41.894 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:53:41.894 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:53:41.894 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:53:41.894 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:53:42.049 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:53:42.049 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:53:42.049 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:53:42.049 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:53:42.049 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:53:42.049 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:53:42.049 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:53:42.049 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:53:42.050 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:54:34.026 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:54:34.026 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:54:34.026 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:54:34.027 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:54:34.027 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:54:34.027 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:54:34.617 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:54:34.617 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:54:34.785 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:54:34.785048', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:54:34.785 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:54:34.785 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:54:34.785 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:54:34.785 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:54:35.039 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:54:35.040 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:54:35.040 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:54:35.040 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:54:35.040 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:54:35.040 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:54:35.040 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:54:35.040 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:54:35.040 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:54:35.113 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:54:35.113 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:54:35.113 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:54:35.113 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:54:35.113 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:54:35.113 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:54:35.168 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:54:35.169 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:54:35.275 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:54:35.275548', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:54:35.275 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:54:35.275 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:54:35.275 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:54:35.275 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:54:35.449 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:54:35.449 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:54:35.450 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:54:35.450 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:54:35.450 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:54:35.450 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:54:35.450 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:54:35.450 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:54:35.450 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:57:20.651 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:57:20.651 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:57:20.651 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:57:20.652 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:57:20.652 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:57:20.652 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:57:21.297 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:57:21.297 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:57:21.430 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:57:21.430153', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:57:21.430 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:57:21.430 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:57:21.430 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:57:21.430 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:57:21.714 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:57:21.714 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:57:21.715 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:57:21.715 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:57:21.715 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:57:21.715 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:57:21.715 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:57:21.715 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:57:21.715 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 18:57:21.805 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 18:57:21.805 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 18:57:21.805 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 18:57:21.806 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 18:57:21.806 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 18:57:21.806 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 18:57:21.863 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 18:57:21.863 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 18:57:21.965 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T18:57:21.965576', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 18:57:21.965 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 18:57:21.965 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 18:57:21.965 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 18:57:21.965 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 18:57:22.126 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 18:57:22.127 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 18:57:22.127 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 18:57:22.127 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 18:57:22.127 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 18:57:22.127 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 18:57:22.127 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 18:57:22.127 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 18:57:22.127 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 19:00:12.565 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 19:00:12.565 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 19:00:12.565 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 19:00:12.565 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 19:00:12.565 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 19:00:12.566 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 19:00:13.156 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 19:00:13.156 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 19:00:13.337 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T19:00:13.337202', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 19:00:13.337 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 19:00:13.337 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 19:00:13.337 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 19:00:13.337 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 19:00:13.602 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 19:00:13.602 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 19:00:13.603 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 19:00:13.603 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 19:00:13.603 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 19:00:13.603 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 19:00:13.603 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 19:00:13.603 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 19:00:13.603 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
+2026-06-29 19:00:13.698 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-29 19:00:13.698 | INFO     | core.base_agent:log:14 - [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-29 19:00:13.698 | INFO     | core.base_agent:log:14 - [TriggerAgent] Checking Rebalancing Trigger
+2026-06-29 19:00:13.698 | INFO     | core.base_agent:log:14 - [TriggerAgent] Trigger = THRESHOLD
+2026-06-29 19:00:13.698 | INFO     | core.base_agent:log:14 - [HumanOverrideAgent] Override Action : AUTO
+2026-06-29 19:00:13.698 | INFO     | core.base_agent:log:14 - [RiskAgent] Calculating Portfolio Risk
+2026-06-29 19:00:13.757 | INFO     | core.base_agent:log:14 - [RiskAgent] Volatility=0.0105 Sharpe=-0.0812 VaR=-0.0173
+2026-06-29 19:00:13.757 | INFO     | core.base_agent:log:14 - [MarketAgent] Fetching Live Market Data
+2026-06-29 19:00:13.858 | INFO     | core.base_agent:log:14 - [MarketAgent] {'timestamp': '2026-06-29T19:00:13.858208', 'nifty': 23946.25, 'bank_nifty': 57727.35}
+2026-06-29 19:00:13.858 | INFO     | core.base_agent:log:14 - [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-29 19:00:13.858 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision Score : 60
+2026-06-29 19:00:13.858 | INFO     | core.base_agent:log:14 - [DecisionAgent] Decision : REBALANCE
+2026-06-29 19:00:13.858 | INFO     | core.base_agent:log:14 - [TradeAgent] Generating Trade List
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [TradeAgent] 2 trades generated
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [TaxAgent] Optimizing Tax
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [TaxAgent] Estimated Tax = ₹675.0
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Running Compliance Checks
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [ComplianceAgent] Compliance Passed
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [ExplanationAgent] Generating explanations
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Processing approval workflow
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-29 19:00:14.015 | INFO     | core.base_agent:log:14 - [AuditAgent] Saving audit trail
