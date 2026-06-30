@@ -1693,3 +1693,230 @@
 2026-06-30 16:34:37,860 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
 2026-06-30 16:34:37,860 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
 2026-06-30 16:34:37,860 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 17:00:19,174 | INFO | WealthPilot | [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-30 17:00:19,175 | INFO | WealthPilot | [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-30 17:00:19,175 | INFO | WealthPilot | [TriggerAgent] Checking Rebalancing Trigger
+2026-06-30 17:00:19,176 | INFO | WealthPilot | [TriggerAgent] Trigger = THRESHOLD
+2026-06-30 17:00:19,176 | INFO | WealthPilot | [HumanOverrideAgent] Override Action : AUTO
+2026-06-30 17:00:19,176 | INFO | WealthPilot | [RiskAgent] Calculating Portfolio Risk
+2026-06-30 17:00:19,368 | INFO | WealthPilot | [RiskAgent] Volatility=0.0105 Sharpe=-0.0838 VaR=-0.0173
+2026-06-30 17:00:19,368 | INFO | WealthPilot | [MarketAgent] Fetching Live Market Data
+2026-06-30 17:00:19,554 | INFO | WealthPilot | [MarketAgent] {'timestamp': '2026-06-30T17:00:19.554789', 'nifty': 23865.75, 'bank_nifty': 57542.9}
+2026-06-30 17:00:19,555 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 17:00:19,555 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 17:00:19,555 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 17:00:19,555 | INFO | WealthPilot | [TradeAgent] Generating Trade List
+2026-06-30 17:00:19,899 | INFO | WealthPilot | [TradeAgent] 3 trades generated
+2026-06-30 17:00:19,899 | INFO | WealthPilot | [TaxAgent] Optimizing Tax
+2026-06-30 17:00:19,899 | INFO | WealthPilot | [TaxAgent] Estimated Tax = ₹675.0
+2026-06-30 17:00:19,900 | INFO | WealthPilot | [ComplianceAgent] Running Compliance Checks
+2026-06-30 17:00:19,900 | INFO | WealthPilot | [ComplianceAgent] Compliance Passed
+2026-06-30 17:00:19,900 | INFO | WealthPilot | [ExplanationAgent] Generating explanations
+2026-06-30 17:00:19,900 | INFO | WealthPilot | [ApprovalAgent] Processing approval workflow
+2026-06-30 17:00:19,900 | INFO | WealthPilot | [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-30 17:00:19,900 | INFO | WealthPilot | [AuditAgent] Saving audit trail
+2026-06-30 17:00:19,909 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 17:00:19,909 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 17:00:19,909 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 17:00:26,508 | INFO | WealthPilot | [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-30 17:00:26,508 | INFO | WealthPilot | [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-30 17:00:26,509 | INFO | WealthPilot | [TriggerAgent] Checking Rebalancing Trigger
+2026-06-30 17:00:26,509 | INFO | WealthPilot | [TriggerAgent] Trigger = THRESHOLD
+2026-06-30 17:00:26,509 | INFO | WealthPilot | [HumanOverrideAgent] Override Action : AUTO
+2026-06-30 17:00:26,509 | INFO | WealthPilot | [RiskAgent] Calculating Portfolio Risk
+2026-06-30 17:00:26,549 | INFO | WealthPilot | [RiskAgent] Volatility=0.0105 Sharpe=-0.0838 VaR=-0.0173
+2026-06-30 17:00:26,549 | INFO | WealthPilot | [MarketAgent] Fetching Live Market Data
+2026-06-30 17:00:26,599 | INFO | WealthPilot | [MarketAgent] {'timestamp': '2026-06-30T17:00:26.598980', 'nifty': 23865.75, 'bank_nifty': 57542.9}
+2026-06-30 17:00:26,599 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 17:00:26,599 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 17:00:26,599 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 17:00:26,599 | INFO | WealthPilot | [TradeAgent] Generating Trade List
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [TradeAgent] 2 trades generated
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [TaxAgent] Optimizing Tax
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [TaxAgent] Estimated Tax = ₹675.0
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [ComplianceAgent] Running Compliance Checks
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [ComplianceAgent] Compliance Passed
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [ExplanationAgent] Generating explanations
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [ApprovalAgent] Processing approval workflow
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-30 17:00:26,666 | INFO | WealthPilot | [AuditAgent] Saving audit trail
+2026-06-30 17:00:26,672 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 17:00:26,672 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 17:00:26,672 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 17:02:28,688 | INFO | WealthPilot | ========== Portfolio API Loaded ==========
+2026-06-30 17:02:28,775 | INFO | WealthPilot | REGISTERED ROUTES
+2026-06-30 17:02:28,775 | INFO | WealthPilot | /openapi.json
+2026-06-30 17:02:28,775 | INFO | WealthPilot | /docs
+2026-06-30 17:02:28,775 | INFO | WealthPilot | /docs/oauth2-redirect
+2026-06-30 17:02:28,775 | INFO | WealthPilot | /redoc
+2026-06-30 17:02:28,775 | INFO | WealthPilot | /portfolio/all
+2026-06-30 17:02:28,775 | INFO | WealthPilot | /portfolio/{portfolio_id}
+2026-06-30 17:02:28,775 | INFO | WealthPilot | /portfolio/risk/{risk}
+2026-06-30 17:18:27,368 | INFO | WealthPilot | ========== Portfolio API Loaded ==========
+2026-06-30 17:18:27,466 | INFO | WealthPilot | REGISTERED ROUTES
+2026-06-30 17:18:27,466 | INFO | WealthPilot | /openapi.json
+2026-06-30 17:18:27,466 | INFO | WealthPilot | /docs
+2026-06-30 17:18:27,466 | INFO | WealthPilot | /docs/oauth2-redirect
+2026-06-30 17:18:27,466 | INFO | WealthPilot | /redoc
+2026-06-30 17:18:27,466 | INFO | WealthPilot | /portfolio/all
+2026-06-30 17:18:27,466 | INFO | WealthPilot | /portfolio/{portfolio_id}
+2026-06-30 17:18:27,466 | INFO | WealthPilot | /portfolio/risk/{risk}
+2026-06-30 17:18:57,290 | INFO | WealthPilot | ========== Portfolio API Loaded ==========
+2026-06-30 17:18:57,368 | INFO | WealthPilot | REGISTERED ROUTES
+2026-06-30 17:18:57,368 | INFO | WealthPilot | /openapi.json
+2026-06-30 17:18:57,368 | INFO | WealthPilot | /docs
+2026-06-30 17:18:57,368 | INFO | WealthPilot | /docs/oauth2-redirect
+2026-06-30 17:18:57,368 | INFO | WealthPilot | /redoc
+2026-06-30 17:18:57,368 | INFO | WealthPilot | /portfolio/all
+2026-06-30 17:18:57,368 | INFO | WealthPilot | /portfolio/{portfolio_id}
+2026-06-30 17:18:57,368 | INFO | WealthPilot | /portfolio/risk/{risk}
+2026-06-30 23:04:00,899 | INFO | WealthPilot | [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-30 23:04:00,900 | INFO | WealthPilot | [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-30 23:04:00,900 | INFO | WealthPilot | [TriggerAgent] Checking Rebalancing Trigger
+2026-06-30 23:04:00,900 | INFO | WealthPilot | [TriggerAgent] Trigger = THRESHOLD
+2026-06-30 23:04:00,901 | INFO | WealthPilot | [HumanOverrideAgent] Override Action : AUTO
+2026-06-30 23:04:00,901 | INFO | WealthPilot | [RiskAgent] Calculating Portfolio Risk
+2026-06-30 23:04:01,879 | INFO | WealthPilot | [RiskAgent] Volatility=0.0105 Sharpe=-0.0838 VaR=-0.0173
+2026-06-30 23:04:01,879 | INFO | WealthPilot | [MarketAgent] Fetching Live Market Data
+2026-06-30 23:04:02,061 | INFO | WealthPilot | [MarketAgent] {'timestamp': '2026-06-30T23:04:02.061745', 'nifty': 23865.75, 'bank_nifty': 57542.9}
+2026-06-30 23:04:02,062 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:02,062 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:02,062 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:02,062 | INFO | WealthPilot | [TradeAgent] Generating Trade List
+2026-06-30 23:04:02,385 | INFO | WealthPilot | [TradeAgent] 3 trades generated
+2026-06-30 23:04:02,386 | INFO | WealthPilot | [TaxAgent] Optimizing Tax
+2026-06-30 23:04:02,386 | INFO | WealthPilot | [TaxAgent] Estimated Tax = ₹675.0
+2026-06-30 23:04:02,386 | INFO | WealthPilot | [ComplianceAgent] Running Compliance Checks
+2026-06-30 23:04:02,386 | INFO | WealthPilot | [ComplianceAgent] Compliance Passed
+2026-06-30 23:04:02,386 | INFO | WealthPilot | [ExplanationAgent] Generating explanations
+2026-06-30 23:04:02,387 | INFO | WealthPilot | [ApprovalAgent] Processing approval workflow
+2026-06-30 23:04:02,387 | INFO | WealthPilot | [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-30 23:04:02,387 | INFO | WealthPilot | [AuditAgent] Saving audit trail
+2026-06-30 23:04:02,395 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:02,395 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:02,395 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:02,542 | INFO | WealthPilot | [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-30 23:04:02,542 | INFO | WealthPilot | [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-30 23:04:02,542 | INFO | WealthPilot | [TriggerAgent] Checking Rebalancing Trigger
+2026-06-30 23:04:02,543 | INFO | WealthPilot | [TriggerAgent] Trigger = THRESHOLD
+2026-06-30 23:04:02,543 | INFO | WealthPilot | [HumanOverrideAgent] Override Action : AUTO
+2026-06-30 23:04:02,543 | INFO | WealthPilot | [RiskAgent] Calculating Portfolio Risk
+2026-06-30 23:04:02,567 | INFO | WealthPilot | [RiskAgent] Volatility=0.0105 Sharpe=-0.0838 VaR=-0.0173
+2026-06-30 23:04:02,567 | INFO | WealthPilot | [MarketAgent] Fetching Live Market Data
+2026-06-30 23:04:02,606 | INFO | WealthPilot | [MarketAgent] {'timestamp': '2026-06-30T23:04:02.606248', 'nifty': 23865.75, 'bank_nifty': 57542.9}
+2026-06-30 23:04:02,606 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:02,606 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:02,606 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:02,606 | INFO | WealthPilot | [TradeAgent] Generating Trade List
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [TradeAgent] 2 trades generated
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [TaxAgent] Optimizing Tax
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [TaxAgent] Estimated Tax = ₹675.0
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [ComplianceAgent] Running Compliance Checks
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [ComplianceAgent] Compliance Passed
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [ExplanationAgent] Generating explanations
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [ApprovalAgent] Processing approval workflow
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-30 23:04:02,662 | INFO | WealthPilot | [AuditAgent] Saving audit trail
+2026-06-30 23:04:02,667 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:02,667 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:02,667 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:02,968 | INFO | WealthPilot | [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-30 23:04:02,968 | INFO | WealthPilot | [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-30 23:04:02,968 | INFO | WealthPilot | [TriggerAgent] Checking Rebalancing Trigger
+2026-06-30 23:04:02,968 | INFO | WealthPilot | [TriggerAgent] Trigger = THRESHOLD
+2026-06-30 23:04:02,968 | INFO | WealthPilot | [HumanOverrideAgent] Override Action : AUTO
+2026-06-30 23:04:02,968 | INFO | WealthPilot | [RiskAgent] Calculating Portfolio Risk
+2026-06-30 23:04:03,135 | INFO | WealthPilot | [RiskAgent] Volatility=0.0105 Sharpe=-0.0838 VaR=-0.0173
+2026-06-30 23:04:03,135 | INFO | WealthPilot | [MarketAgent] Fetching Live Market Data
+2026-06-30 23:04:03,501 | INFO | WealthPilot | [MarketAgent] {'timestamp': '2026-06-30T23:04:03.501120', 'nifty': 23865.75, 'bank_nifty': 57542.9}
+2026-06-30 23:04:03,501 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:03,501 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:03,501 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:03,501 | INFO | WealthPilot | [TradeAgent] Generating Trade List
+2026-06-30 23:04:04,381 | INFO | WealthPilot | [TradeAgent] 3 trades generated
+2026-06-30 23:04:04,381 | INFO | WealthPilot | [TaxAgent] Optimizing Tax
+2026-06-30 23:04:04,382 | INFO | WealthPilot | [TaxAgent] Estimated Tax = ₹675.0
+2026-06-30 23:04:04,382 | INFO | WealthPilot | [ComplianceAgent] Running Compliance Checks
+2026-06-30 23:04:04,382 | INFO | WealthPilot | [ComplianceAgent] Compliance Passed
+2026-06-30 23:04:04,382 | INFO | WealthPilot | [ExplanationAgent] Generating explanations
+2026-06-30 23:04:04,382 | INFO | WealthPilot | [ApprovalAgent] Processing approval workflow
+2026-06-30 23:04:04,382 | INFO | WealthPilot | [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-30 23:04:04,382 | INFO | WealthPilot | [AuditAgent] Saving audit trail
+2026-06-30 23:04:04,393 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:04,393 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:04,393 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:04,411 | INFO | WealthPilot | [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-30 23:04:04,412 | INFO | WealthPilot | [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-30 23:04:04,412 | INFO | WealthPilot | [TriggerAgent] Checking Rebalancing Trigger
+2026-06-30 23:04:04,412 | INFO | WealthPilot | [TriggerAgent] Trigger = THRESHOLD
+2026-06-30 23:04:04,412 | INFO | WealthPilot | [HumanOverrideAgent] Override Action : AUTO
+2026-06-30 23:04:04,412 | INFO | WealthPilot | [RiskAgent] Calculating Portfolio Risk
+2026-06-30 23:04:04,447 | INFO | WealthPilot | [RiskAgent] Volatility=0.0105 Sharpe=-0.0838 VaR=-0.0173
+2026-06-30 23:04:04,448 | INFO | WealthPilot | [MarketAgent] Fetching Live Market Data
+2026-06-30 23:04:04,514 | INFO | WealthPilot | [MarketAgent] {'timestamp': '2026-06-30T23:04:04.514225', 'nifty': 23865.75, 'bank_nifty': 57542.9}
+2026-06-30 23:04:04,514 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:04,514 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:04,514 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:04,514 | INFO | WealthPilot | [TradeAgent] Generating Trade List
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [TradeAgent] 3 trades generated
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [TaxAgent] Optimizing Tax
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [TaxAgent] Estimated Tax = ₹675.0
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [ComplianceAgent] Running Compliance Checks
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [ComplianceAgent] Compliance Passed
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [ExplanationAgent] Generating explanations
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [ApprovalAgent] Processing approval workflow
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-30 23:04:04,615 | INFO | WealthPilot | [AuditAgent] Saving audit trail
+2026-06-30 23:04:04,620 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:04,620 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:04,620 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:04,654 | INFO | WealthPilot | [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-30 23:04:04,654 | INFO | WealthPilot | [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-30 23:04:04,654 | INFO | WealthPilot | [TriggerAgent] Checking Rebalancing Trigger
+2026-06-30 23:04:04,654 | INFO | WealthPilot | [TriggerAgent] Trigger = THRESHOLD
+2026-06-30 23:04:04,654 | INFO | WealthPilot | [HumanOverrideAgent] Override Action : AUTO
+2026-06-30 23:04:04,654 | INFO | WealthPilot | [RiskAgent] Calculating Portfolio Risk
+2026-06-30 23:04:04,691 | INFO | WealthPilot | [RiskAgent] Volatility=0.0105 Sharpe=-0.0838 VaR=-0.0173
+2026-06-30 23:04:04,691 | INFO | WealthPilot | [MarketAgent] Fetching Live Market Data
+2026-06-30 23:04:04,756 | INFO | WealthPilot | [MarketAgent] {'timestamp': '2026-06-30T23:04:04.756077', 'nifty': 23865.75, 'bank_nifty': 57542.9}
+2026-06-30 23:04:04,756 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:04,756 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:04,756 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:04,756 | INFO | WealthPilot | [TradeAgent] Generating Trade List
+2026-06-30 23:04:04,855 | INFO | WealthPilot | [TradeAgent] 3 trades generated
+2026-06-30 23:04:04,855 | INFO | WealthPilot | [TaxAgent] Optimizing Tax
+2026-06-30 23:04:04,856 | INFO | WealthPilot | [TaxAgent] Estimated Tax = ₹675.0
+2026-06-30 23:04:04,856 | INFO | WealthPilot | [ComplianceAgent] Running Compliance Checks
+2026-06-30 23:04:04,856 | INFO | WealthPilot | [ComplianceAgent] Compliance Passed
+2026-06-30 23:04:04,856 | INFO | WealthPilot | [ExplanationAgent] Generating explanations
+2026-06-30 23:04:04,856 | INFO | WealthPilot | [ApprovalAgent] Processing approval workflow
+2026-06-30 23:04:04,856 | INFO | WealthPilot | [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-30 23:04:04,856 | INFO | WealthPilot | [AuditAgent] Saving audit trail
+2026-06-30 23:04:04,863 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:04,863 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:04,863 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:04,884 | INFO | WealthPilot | [PortfolioMonitor] Monitoring Portfolio WP-1001
+2026-06-30 23:04:04,884 | INFO | WealthPilot | [PortfolioMonitor] Portfolio Drift : 8.00%
+2026-06-30 23:04:04,884 | INFO | WealthPilot | [TriggerAgent] Checking Rebalancing Trigger
+2026-06-30 23:04:04,884 | INFO | WealthPilot | [TriggerAgent] Trigger = THRESHOLD
+2026-06-30 23:04:04,884 | INFO | WealthPilot | [HumanOverrideAgent] Override Action : AUTO
+2026-06-30 23:04:04,884 | INFO | WealthPilot | [RiskAgent] Calculating Portfolio Risk
+2026-06-30 23:04:04,916 | INFO | WealthPilot | [RiskAgent] Volatility=0.0105 Sharpe=-0.0838 VaR=-0.0173
+2026-06-30 23:04:04,916 | INFO | WealthPilot | [MarketAgent] Fetching Live Market Data
+2026-06-30 23:04:04,980 | INFO | WealthPilot | [MarketAgent] {'timestamp': '2026-06-30T23:04:04.980515', 'nifty': 23865.75, 'bank_nifty': 57542.9}
+2026-06-30 23:04:04,980 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:04,980 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:04,980 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
+2026-06-30 23:04:04,980 | INFO | WealthPilot | [TradeAgent] Generating Trade List
+2026-06-30 23:04:05,084 | INFO | WealthPilot | [TradeAgent] 2 trades generated
+2026-06-30 23:04:05,085 | INFO | WealthPilot | [TaxAgent] Optimizing Tax
+2026-06-30 23:04:05,085 | INFO | WealthPilot | [TaxAgent] Estimated Tax = ₹675.0
+2026-06-30 23:04:05,085 | INFO | WealthPilot | [ComplianceAgent] Running Compliance Checks
+2026-06-30 23:04:05,085 | INFO | WealthPilot | [ComplianceAgent] Compliance Passed
+2026-06-30 23:04:05,085 | INFO | WealthPilot | [ExplanationAgent] Generating explanations
+2026-06-30 23:04:05,085 | INFO | WealthPilot | [ApprovalAgent] Processing approval workflow
+2026-06-30 23:04:05,085 | INFO | WealthPilot | [ApprovalAgent] Portfolio WP-1001 approved.
+2026-06-30 23:04:05,085 | INFO | WealthPilot | [AuditAgent] Saving audit trail
+2026-06-30 23:04:05,093 | INFO | WealthPilot | [DecisionAgent] Evaluating Rebalancing Decision
+2026-06-30 23:04:05,093 | INFO | WealthPilot | [DecisionAgent] Decision Score : 60
+2026-06-30 23:04:05,093 | INFO | WealthPilot | [DecisionAgent] Decision : REBALANCE
