@@ -63,7 +63,7 @@ class TradeOptimizer:
                 or math.isinf(quantity)
                 or quantity <= 0
             ):
-                print(f"[TradeOptimizer] Skipping {ticker} - Invalid quantity: {quantity}")
+                logger.warning( f"[TradeOptimizer] Skipping {ticker} - Invalid quantity: {quantity}")
                 continue
 
             trades.append(

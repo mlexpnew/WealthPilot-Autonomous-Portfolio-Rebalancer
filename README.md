@@ -125,3 +125,48 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 
 streamlit run dashboard/app.py
+
+
+## Documentation
+
+See /docs folder.
+
+
+
+#####Docker
+docker compose build
+docker compose up
+
+
+API Endpoints
+/
+/health
+/test
+/portfolio/all
+/portfolio/{portfolio_id}
+/run/{portfolio_id}
+/analytics
+/audit
+/backtest
+/simulation/{portfolio_id}
+/recommend/{portfolio_id}
+/alerts/{portfolio_id}
+/timeline/{portfolio_id}
+/agent-metrics
+/report/{portfolio_id}
+
+##Dashboard
+
+
+####Future Enhancements
+OAuth Authentication
+Multi-user Support
+Kubernetes Deployment
+Cloud Deployment
+Redis Cache
+PostgreSQL
+
+
+License
+
+MIT
