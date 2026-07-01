@@ -93,12 +93,11 @@ with open("data/clients.json", "r") as f:
 client_df = pd.DataFrame(clients)
 
 
-
-API_URL = "https://wealthpilot-api.onrender.com"
+API = "https://wealthpilot-autonomous-portfolio-sqn4.onrender.com"
 try:
 
     clients = requests.get(
-        f"{API_URL}/portfolio/all"
+        f"{API}/portfolio/all"
     ).json()
 
     portfolio_map = {
@@ -114,7 +113,7 @@ try:
     selected_portfolio = portfolio_map[selected_name]
 
     response = requests.get(
-        f"{API_URL}/run/{selected_portfolio}"
+        f"{API}/run/{selected_portfolio}"
     )
 
     response.raise_for_status()
