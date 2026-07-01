@@ -1,13 +1,13 @@
 from pathlib import Path
-from reportlab.lib.styles import getSampleStyleSheet
-from reportlab.platypus import (
+from reportlab.lib.styles import getSampleStyleSheet  # type: ignore[import]
+from reportlab.platypus import (  # type: ignore[import]
     SimpleDocTemplate,
     Paragraph,
     Spacer,
     Table,
     TableStyle,
 )
-from reportlab.lib import colors
+from reportlab.lib import colors  # type: ignore[import]
 
 
 class ReportGenerator:
