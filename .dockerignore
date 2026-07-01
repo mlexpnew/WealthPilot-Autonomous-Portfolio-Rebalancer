@@ -3,5 +3,4 @@ __pycache__/
 .git/
 .pytest_cache/
 *.pyc
-reports/
 audit_logs/
