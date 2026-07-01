@@ -94,13 +94,11 @@ client_df = pd.DataFrame(clients)
 
 
 
-import os
-
-API = os.getenv("API_URL", "http://127.0.0.1:8000")
+API_URL = "https://wealthpilot-api.onrender.com"
 try:
 
     clients = requests.get(
-        f"{API}/portfolio/all"
+        f"{API_URL}/portfolio/all"
     ).json()
 
     portfolio_map = {
@@ -116,7 +114,7 @@ try:
     selected_portfolio = portfolio_map[selected_name]
 
     response = requests.get(
-        f"{API}/run/{selected_portfolio}"
+        f"{API_URL}/run/{selected_portfolio}"
     )
 
     response.raise_for_status()
